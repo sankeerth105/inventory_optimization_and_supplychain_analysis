@@ -1,0 +1,2 @@
+# inventory_optimization_and_supplychain_analysis
+data analytics project 
